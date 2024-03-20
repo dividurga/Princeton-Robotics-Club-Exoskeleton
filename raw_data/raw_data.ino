@@ -5,8 +5,7 @@
 // license free.
 //
 // This modification allows view data trough serial monitor
-// Lozano Ramirez Angel Ivan
-// Mexico  2.07.2021
+// Further modification displays average of byteread values for a "smoother graph"
 ////////////////////////////////////////////////////////////////////////
 
 #define LED 13
